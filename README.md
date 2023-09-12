@@ -16,7 +16,9 @@ _Collaborate and work together on GitHub._
 <!--
   <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
-  This is a good way to learn about pull requests
+
+  Define terms and link to docs.github.com.
+
 -->
 
 ## Step 6: Merge your pull request
